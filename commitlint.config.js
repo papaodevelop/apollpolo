@@ -18,6 +18,8 @@ module.exports = {
         'perf',
         'revert',
         'vercel',
+        'make',
+        'build',
       ],
     ],
   },
